@@ -7,7 +7,7 @@
 - 💬 Ask me about HTML, CSS, JS, React, C#, .NET Core, NodeJS, MongoDB, SQL.
 - 😄 I'm very curious about several different themes
 - ⚡ Fun fact: I memorized the largest word in the portuguese language
-- 📫 How to reach me: josevictormobile@gmail.com 
+- 📫 How to reach me: josevictormobile@gmail.com / <a>https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/</a>
 
 [![José Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
 
