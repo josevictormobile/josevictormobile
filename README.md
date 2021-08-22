@@ -11,4 +11,6 @@
 
 [![José Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
+
 
