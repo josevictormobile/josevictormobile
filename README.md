@@ -8,4 +8,4 @@
 -📫 How to reach me: josevictormobile@gmail.com
 -😄 I'm very curious about several different themes
 -⚡ Fun fact: I memorized the largest word in the portuguese language
-
+-->
