@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IT Support at AeC Contact Center.
+- 🔭 I’m currently working as IT Support Technician at AeC Contact Center.
 - 🌱 I’m currently learning C#, .NET Core.
 - 👯 I’m looking to collaborate on webapi projects with .NET Core.
 - 🤔 I’m looking for help with professional experiences with programming.
