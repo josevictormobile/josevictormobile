@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
 
-:vulcan_salute: Checkout some of my classes on YouTube link below 
+:vulcan_salute: Checkout some of my videos on YouTube link below 
 
 <a href="https://www.youtube.com/watch?v=GqOkRvNbHeU&list=PLGOSSmMHckW1SmNbtpS0eyVwWgL-i_Fu8&index=1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
