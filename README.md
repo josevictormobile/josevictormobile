@@ -9,3 +9,6 @@
 - 😄 I'm very curious about several different themes
 - ⚡ Fun fact: I memorized the largest word in the portuguese language
 
+[![José Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
+
+
