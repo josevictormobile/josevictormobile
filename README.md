@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Software Developer at AeC Contact Center.
-- 🌱 I'm currently studying chatbot technologies and environments and telecom integration trough SIP protocol.
+- 🌱 I'm currently studying chatbot technologies with its environments and telecom integration trough SIP protocol.
 - 👯 I’m looking to collaborate on webapi projects with .NET Core.
 - 🤔 I’m looking for help with microservices architectures.
 - 💬 Ask me about HTML, CSS, JS, React, C#, .NET Core, NodeJS, MongoDB, SQL.
