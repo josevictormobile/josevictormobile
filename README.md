@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with microservices architectures.
 - 💬 Ask me about HTML, CSS, JS, React, C#, .NET Core, NodeJS, MongoDB, SQL.
 - 😄 I'm very curious about several different themes
-- ⚡ Fun fact: I memorized the largest word in the portuguese language
+- ⚡ Fun fact: I've memorized the largest word in the portuguese language
 - 📫 How to reach me: josevictormobile@gmail.com 
 
 [![José Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
