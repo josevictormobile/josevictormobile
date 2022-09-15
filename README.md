@@ -9,15 +9,11 @@
 - ⚡ Fun fact: I've memorized the largest word in the portuguese language
 - 📫 How to reach me: josevictormobile@gmail.com 
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevictormobile&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormobile&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-[![José Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormobile)](https://github.com/josevictormobile/github-readme-stats)
 
 :vulcan_salute: Checkout some of my videos on YouTube link below 
 
