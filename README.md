@@ -11,13 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormobile&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block">
-  <di>
+<div float="left">
     <a href="https://www.youtube.com/watch?v=GqOkRvNbHeU&list=PLGOSSmMHckW1SmNbtpS0eyVwWgL-i_Fu8&index=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  </div>
- <di> 
+ 
    <a href="https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
 </div>
 
 
