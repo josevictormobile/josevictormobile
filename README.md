@@ -1,17 +1,20 @@
 <h1 align="center">Hi there 👋🏻, I'm José Victor</h1>
 
-- 🔭 I’m currently working as Software Developer at AeC Contact Center.
+- 🔭 I’m currently working as C# Backend Software Developer at AeC Contact Center, developing voice bots.
 - 👯 I’m looking to collaborate on webapi projects with .NET Core.
 - 🤔 I’m looking for help with microservices architectures.
 - ⚡ Fun fact: I've memorized the largest word in the portuguese language
-- 📫 How to reach me: josevictormobile@gmail.com 
+- 📫 How to reach me: josevictormobile@gmail.com
+- 👇 Down below technologies that I've learned during my journey, since college till nowadays, from right to left:
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 <!--<div>
