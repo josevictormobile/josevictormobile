@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with microservices architectures.
 - ⚡ Fun fact: I've memorized the largest word in the portuguese language
 - 📫 How to reach me: josevictormobile@gmail.com
-- 👇 Down below technologies that I've learned during my journey, since college till nowadays, from right to left:
+- 👇 Down below, technologies that I've learned during my journey, since college till nowadays, from right to left:
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
