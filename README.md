@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻, I'm José Victor</h1>
 
-- 🔭 I’m currently working as C# Backend Software Developer at AeC Contact Center, developing voice bots.
+- 🔭 I’m currently working as C# Backend Software Developer at AeC Contact Center, implementing voice bots.
 - 👯 I’m looking to collaborate on webapi projects with .NET Core.
 - 🤔 I’m looking for help with microservices architectures.
 - ⚡ Fun fact: I've memorized the largest word in the portuguese language
