@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as C# Backend Software Developer at AeC Contact Center, implementing voice bots.
 - 👯 I’m looking to collaborate on webapi projects with .NET Core.
 - 🤔 I’m looking for help with microservices architectures.
-- 📫 How to reach me: josevictormobile@gmail.com
+- 📫 How to reach me: josevictormartinsfigueiredo@proton.me
 - ⚡ Fun fact: I've memorized the largest word in the portuguese language
 - 👇 Down below, technologies that I've learned during my journey, since college till nowadays, from right to left:
 
